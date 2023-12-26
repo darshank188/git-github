@@ -1,0 +1,18 @@
+"apple" : "I am a red fruit"
+1 : "this is Darshan's roll number"
+
+#lists
+- apple
+- banana
+- orange
+---
+cities:
+- New York
+- London
+- Paris
+- Tokyo
+---
+cities: [New York, London, Paris, Tokyo]
+---
+{mango: "yellow fruit", age: 56}
+...
